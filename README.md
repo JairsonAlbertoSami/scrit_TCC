@@ -1,4 +1,4 @@
-Nesta pasta, encontra-se o script utilizado para a classificação das imagens de satélite empregadas no artigo intitulado **"Mapeamento do Índice de Sensibilidade em Áreas do Litoral da Guiné-Bissau por GEOBIA e Machine Learning"**. Este trabalho tem como objetivo gerar a carta do Índice de Sensibilidade do Litoral (ISL) ao derramamento de óleo na Guiné-Bissau. 
+Nesta repositório, encontra-se o script utilizado para a classificação das imagens de satélite empregadas no Tabalho de Conclusão de Curso intitulado **"Mapeamento do Índice de Sensibilidade em Áreas do Litoral da Guiné-Bissau por GEOBIA e Machine Learning"**. Este trabalho tem como objetivo gerar a carta do Índice de Sensibilidade do Litoral (ISL) ao derramamento de óleo na Guiné-Bissau. 
 
 A metodologia foi baseada nas **Especificações e Normas Técnicas para a Elaboração de Cartas de Sensibilidade Ambiental para Derramamentos de Óleo do Brasil (Cartas SAO)**, aplicando técnicas de classificação por Análise Baseada em Objetos de Imagem Geográfica (GEOBIA) e aprendizado de máquina (machine learning). 
 
